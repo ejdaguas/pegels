@@ -25,4 +25,6 @@ data_figure2: MTT assay results (signal minus background, 540nm reading - 630 nm
 
 data_figure3: Acrylamide concentrations (g/mL) from 70/3-70/24 gel washes over 4 days. "L" indicates low-PI gels and "H" indicates high-PI gels. Each column represents one gel. Three samples of each gel were included in this experiment. Concentrations were calculated from the acrylamide calibration curve shown in Supplementary Figure 1 using linear extrapolation.
 
-data_figure4: MTT assay results (signal minus background, 540nm reading - 630 nm reading) for two plates: one for gels 70/3-70/12, one for gels 70/18 and 70/24. Each gel had three separate samples per plate. Results were normalized for visualization using the control wells on the respective plates. </br>
+data_figure4: MTT assay results (signal minus background, 540nm reading - 630 nm reading) for two plates: one for gels 70/3-70/12, one for gels 70/18 and 70/24. Each gel had three separate samples per plate. Results were normalized for visualization using the control wells on the respective plates. 
+
+data_figure5: Rheology results for initial-swelled, sandwich-swelled, and fully-swelled 70/3-70/24 gels (averaged over 3 samples). G' and G" values (Pa) presented for corresponding strain values (%). 
