@@ -23,4 +23,6 @@ No restrictions are placed on this dataset.
 
 data_figure2: MTT assay results (signal minus background, 540nm reading - 630 nm reading) for four plates: three replicates of the PE gel results and one of the Am-only gel results. Results were normalized for visualization using the control wells on the respective plates.
 
+data_figure3: Acrylamide concentrations (g/mL) from 70/3-70/24 gel washes over 4 days. "L" indicates low-PI gels and "H" indicates high-PI gels. Each column represents one gel. Three samples of each gel were included in this experiment. Concentrations were calculated from the acrylamide calibration curve shown in Supplementary Figure 1 using linear extrapolation.
+
 data_figure4: MTT assay results (signal minus background, 540nm reading - 630 nm reading) for two plates: one for gels 70/3-70/12, one for gels 70/18 and 70/24. Each gel had three separate samples per plate. Results were normalized for visualization using the control wells on the respective plates. </br>
