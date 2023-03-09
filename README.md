@@ -37,4 +37,4 @@ data_figure8: Rheology results for cyclic deformation tests on one gel per compo
 
 data_figure9: The original data for this figure comes from the figure 8 dataset, but the plotted values are reproduced here as [mean, SD, N] for convenience.
 
-dat_figure10: Micromotion data is presented as [mean, SD, N] versus distance from probe center for all gels 70/3-70/24 and the control PEGDA gel.
+data_figure10: Micromotion data is presented as [mean, SD, N] versus distance from probe center for all gels 70/3-70/24 and the control PEGDA gel.
