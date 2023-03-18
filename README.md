@@ -29,12 +29,8 @@ data_figure4: MTT assay results (signal minus background, 540nm reading - 630 nm
 
 data_figure5: Rheology results for initial-swelled, sandwich-swelled, and fully-swelled 70/3-70/24 gels (averaged over 3 samples). G' and G" values (Pa) presented for corresponding strain values (%). 
 
-data_figure6: Rheology results for sandwich-swelled low-PI and high-PI 70/3-70/24 gels (averaged over 3 samples). G' and G" values (Pa) presented for corresponding strain values (%). 
-
-data_figure7: The original data for this figure comes from the figure 5 and figure 6 datasets, but the plotted values are reproduced here as mean ± SD for convenience.
-
 data_figure8: Rheology results for cyclic deformation tests on one gel per composition (70/3-70/24). Time (sec), strain (%), G*, G', G" (Pa), and loss tangent (G"/G') are included for each experiment. Non-physical outliers, defined as rows with strain < 0.15%, were removed from the data.
 
-data_figure9: The original data for this figure comes from the figure 8 dataset, but the plotted values are reproduced here as [mean, SD, N] for convenience.
-
 data_figure10: Micromotion data is presented as [mean, SD, N] versus distance from probe center for all gels 70/3-70/24 and the control PEGDA gel.
+
+lowvhi_70x: Rheology results for sandwich-swelled low-PI and high-PI 70/3-70/24 gels (three replicates). G*, G' and G" values (Pa) and loss tangent presented for corresponding strain values (%). 
